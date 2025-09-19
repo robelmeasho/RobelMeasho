@@ -1,6 +1,6 @@
 # Hello there, I’m **Robel Measho**
 
-> “I have transformed my life through coding and the love that comes from developing.”  
+> “Transforming my life and others through coding and the love that comes from developing and creating.”  
 > Web Developer | UI/UX Designer | Team-Oriented Professional
 
 ---
@@ -67,4 +67,5 @@ It shows off my skills, my journey so far, and some design + dev work.
 ---
 
 *Thank you for stopping by — let’s build something great together!*  
+
 
