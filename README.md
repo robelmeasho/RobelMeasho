@@ -49,7 +49,7 @@ It shows off my skills, my journey so far, and some design + dev work.
 |----------|------|
 | 🌐 Portfolio Site | [robel-dev-site.vercel.app](https://robel-dev-site.vercel.app/) |
 | 💼 LinkedIn | [Robel Measho](https://www.linkedin.com/in/robel-measho-2a7832341/) |
-| 📫 Email | **your-email@example.com** |
+| 📫 Email | robel-measho@hotmail.com |
 
 ---
 
@@ -67,5 +67,6 @@ It shows off my skills, my journey so far, and some design + dev work.
 ---
 
 *Thank you for stopping by — let’s build something great together!*  
+
 
 
